@@ -5,7 +5,7 @@ function Banner() {
       <div className="container">
         <div className="banner-wrapper">
           <div className="banner-img">
-            <img src="/Images/bow (2).png" alt="banner" />
+            <img src="./react-portfolio-project/Images/bow (2).png" alt="banner" />
           </div>
           <div className="banner-content">
             <h6>Hello, I'm Rimsha Shoaib</h6>

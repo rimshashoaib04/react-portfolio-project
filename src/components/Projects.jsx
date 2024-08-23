@@ -4,37 +4,37 @@ function Projects() {
   const [projects] = useState([
     {
       title: "Project 1",
-      img: "./react-portfolio-project/Images/1.png",
+      img: "1.png",
       gLink: "#",
       lLink: "#",
     },
     {
       title: "Project 2",
-      img: "./react-portfolio-project/Images/2.png",
+      img: "2.png",
       gLink: "#",
       lLink: "#",
     },
     {
       title: "Project 3",
-      img: "./react-portfolio-project/Images/3.png",
+      img: "3.png",
       gLink: "#",
       lLink: "#",
     },
     {
       title: "Project 4",
-      img: "./react-portfolio-project/Images/4.png",
+      img: "4.png",
       gLink: "#",
       lLink: "#",
     },
     {
       title: "Project 5",
-      img: "./react-portfolio-project/Images/5.png",
+      img: "5.png",
       gLink: "#",
       lLink: "#",
     },
     {
       title: "Project 6",
-      img: "./react-portfolio-project/Images/6.png",
+      img: "6.png",
       gLink: "#",
       lLink: "#",
     },
